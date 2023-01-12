@@ -2,10 +2,10 @@
  
 ----------------------------------------
   
-WELCOME TO MY REPOSITORY! 
+**WELCOME TO MY REPOSITORY! 
   
 ----------------------------------------
 
 ----------------------------------------
-^^ _HAVE FUN BROWSING CODES_  ^^
+^^ _**HAVE FUN BROWSING CODES_  ^^
  
